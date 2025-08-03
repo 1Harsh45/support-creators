@@ -61,7 +61,7 @@ const HomePage = () => {
     {/* Receive Support */}
     <div className="item space-y-4 flex flex-col items-center text-center max-w-[250px]">
       <img
-        src="/payment.gif"
+        src="/paymentt.gif"
         alt="receive donations"
         className="bg-white rounded-full w-[82px] md:w-[90px]"
       />
