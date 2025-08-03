@@ -61,31 +61,3 @@ SupportCreators empowers creators to fund their work by offering a seamless plat
 ```bash
 git clone https://github.com/YOUR_USERNAME/supportcreators.git
 cd supportcreators
-
-npm install
-
-touch .env.local
-
-# MongoDB
-MONGODB_URI=your_mongodb_atlas_uri
-
-# GitHub OAuth
-GITHUB_ID=your_github_client_id
-GITHUB_SECRET=your_github_client_secret
-
-# Google OAuth
-GOOGLE_CLIENT_ID=your_google_client_id
-GOOGLE_CLIENT_SECRET=your_google_client_secret
-
-# Razorpay
-NEXT_PUBLIC_KEY_ID=your_razorpay_key_id
-KEY_SECRET=your_razorpay_key_secret
-
-# NextAuth Config
-NEXTAUTH_SECRET=your_nextauth_secret
-NEXTAUTH_URL=http://localhost:3000
-
-# Site URL
-NEXT_PUBLIC_URL=http://localhost:3000
-
-npm run dev
