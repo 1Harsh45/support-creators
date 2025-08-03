@@ -19,7 +19,6 @@ export const initiate = async (amount, to_username, paymentform) => {
 
   let x = await instance.orders.create(options);
 
-  // create a payment object that shows the pending payment in the database
   await Payment.create({
     oid: x.id,
     amount: amount / 100,
@@ -72,8 +71,7 @@ export const updateProfile = async (data, oldUsername) => {
 
 
 // **************************************************************
-    /* This block of code is updating a user's profile information in the database. Here's a breakdown
-    of what it does: */
+ 
     let updatedProfile = await User.findOneAndUpdate(
         { email: oldEmail.email },
         { ...newData, email: oldEmail.email },
@@ -93,9 +91,7 @@ export const updateProfile = async (data, oldUsername) => {
     });
   }
 
-// *********************************************************************
-  /* This block of code is updating a user's profile information in the database. Here's a breakdown of
-  what it does: */
+
   let updatedProfile = await User.findOneAndUpdate(
     { email: oldEmail.email },
     { ...newData, email: oldEmail.email },
