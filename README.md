@@ -108,6 +108,22 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+## 🚀 Deployment Guide
+
+### GitHub Deployment
+
+1. Push your code to a GitHub repository.
+2. Add a `.env.example` file (excluding any sensitive secrets).
+3. Commit and push the latest project files to GitHub.
+
+### Vercel Deployment
+
+1. Visit [vercel.com](https://vercel.com).
+2. Import your GitHub repository.
+3. Go to **Settings → Environment Variables** and add all required keys (as defined in your `.env` file).
+4. Click **Deploy** and wait for Vercel to build and host your project.
+
+
 ## 📬 Contact
 
 Have questions or feedback?
