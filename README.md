@@ -129,8 +129,9 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## 📬 Contact
 
-Have questions or feedback?
+If you have any questions, suggestions, or feedback, feel free to reach out to us:
 
-- 🌐 [support-creators.vercel.app](https://support-creators.vercel.app/)
-- 📧 Email: harshalmeshram718@gmail.com
-
+- 📧 Email: [support@supportcreators.com](mailto:harshalmeshram718@gmail.com)
+- 🌐 Website: [https://support-creators.vercel.app](https://support-creators.vercel.app)
+- 🐙 GitHub: [https://github.com/1Harsh45](https://github.com/1Harsh45)
+- 🔗 LinkedIn: [https://www.linkedin.com/in/harshalmeshram718/](https://www.linkedin.com/in/harshalmeshram718/)
