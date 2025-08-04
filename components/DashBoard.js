@@ -78,7 +78,7 @@ const DashBoard = () => {
         transition= 'Bounce'
 />
     <div className='min-h-screen'>
-    <h2 className='text-2xl font-bold text-center py-5'>Welcome to your Dashboard</h2>
+    <h2 className='text-2xl font-bold text-center py-5'>Welcome to your DashBoard</h2>
 
     
 
