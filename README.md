@@ -16,9 +16,12 @@
 
 SupportCreators empowers creators to fund their work by offering a seamless platform where supporters can:
 
-- Discover their favorite creators.
-- Send financial support using secure payment gateways.
-- Connect and engage directly.
+- Empower independent creators like developers, designers, artists, and influencers to monetize their work.
+- Facilitate secure and transparent financial support through trusted gateways like Razorpay.
+- Build a strong community by connecting creators and supporters for direct engagement.
+- Enable seamless login/signup using Google and GitHub via secure OAuth.
+- Deliver a fully responsive and mobile-friendly platform for access on any device.
+- Support ongoing platform improvements through feedback and regular updates.
 
 ---
 
